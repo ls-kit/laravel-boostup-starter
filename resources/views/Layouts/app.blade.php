@@ -6,6 +6,7 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>This is Our Bootstrap Project</title>
     @vite(['resources/js/app.js', 'resources/css/app.css'])
+    
 </head>
 <body>
 
